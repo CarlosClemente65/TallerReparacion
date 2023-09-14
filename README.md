@@ -1,8 +1,9 @@
-# TallerReparacion 
+## TallerReparacion 
 
-## Mi primera aplicacion en C# 
-### Desarrollada por Carlos Clemente sep-2023
-Programa para la gestion de un pequeño taller de reparacion de moviles
+### Mi primera aplicacion en C# (desarrollada por Carlos Clemente sep-2023)
+
+#### _Programa para la gestion de un pequeño taller de reparacion de moviles_
+---
 
 To-do:
 1. Posibilidad de imprimir recibo de entrega del terminal
