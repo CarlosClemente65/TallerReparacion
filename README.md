@@ -1,7 +1,7 @@
 # TallerReparacion 
 
 ## Mi primera aplicacion en C# 
-## Desarrollada por Carlos Clemente sep-2023
+### Desarrollada por Carlos Clemente sep-2023
 Programa para la gestion de un pequeño taller de reparacion de moviles
 
 To-do:
